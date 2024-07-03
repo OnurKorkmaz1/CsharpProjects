@@ -1,0 +1,10 @@
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.NoteTaker.resources
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\okorkmaz\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
