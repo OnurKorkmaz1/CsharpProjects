@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\okorkmaz\\source\\repos\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8824D429-53FE-4EDF-A201-7C049089CF59}|TicTacToe\\TicTacToe.csproj|c:\\users\\okorkmaz\\source\\repos\\tictactoe\\tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8824D429-53FE-4EDF-A201-7C049089CF59}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8824D429-53FE-4EDF-A201-7C049089CF59}|TicTacToe\\TicTacToe.csproj|C:\\Users\\okorkmaz\\source\\repos\\TicTacToe\\tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8824D429-53FE-4EDF-A201-7C049089CF59}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8824D429-53FE-4EDF-A201-7C049089CF59}|TicTacToe\\TicTacToe.csproj|C:\\Users\\okorkmaz\\source\\repos\\TicTacToe\\tictactoe\\marktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8824D429-53FE-4EDF-A201-7C049089CF59}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\marktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 327,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarkType.cs",
+              "DocumentMoniker": "C:\\Users\\okorkmaz\\source\\repos\\TicTacToe\\TicTacToe\\MarkType.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\MarkType.cs",
+              "ToolTip": "C:\\Users\\okorkmaz\\source\\repos\\TicTacToe\\TicTacToe\\MarkType.cs",
+              "RelativeToolTip": "TicTacToe\\MarkType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:19:04.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\okorkmaz\\source\\repos\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\okorkmaz\\source\\repos\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-02T14:21:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\okorkmaz\\source\\repos\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\okorkmaz\\source\\repos\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAADwv68AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:21:46.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
